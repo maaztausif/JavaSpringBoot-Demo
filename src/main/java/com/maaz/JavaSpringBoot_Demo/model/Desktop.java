@@ -1,4 +1,4 @@
-package com.maaz.JavaSpringBoot_Demo;
+package com.maaz.JavaSpringBoot_Demo.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
